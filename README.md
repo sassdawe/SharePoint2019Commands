@@ -22,6 +22,5 @@ To install on the user level execute this line: `Install-Module SharePoint2019Co
 
 To install on the machine level, start the regular Windows PowerShell as Administrator and execute this line: `Install-Module SharePoint2019Commands`
 
-
 [psgallery-badge]: https://img.shields.io/powershellgallery/dt/SharePoint2019Commands.svg
 [powershell-gallery]: https://www.powershellgallery.com/packages/SharePoint2019Commands/
