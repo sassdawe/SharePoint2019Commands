@@ -251,7 +251,7 @@
             Tags         = 'PowerShell', 'SharePoint', 'Server', '2019'
 
             # A URL to the license for this module.
-            LicenseUri   = 'https://opensource.org/licenses/MIT'
+            LicenseUri   = 'https://github.com/sassdawe/SharePoint2019Commands/blob/main/LICENSE'
 
             # A URL to the main website for this project.
             ProjectUri   = 'https://github.com/sassdawe/SharePoint2019Commands'
@@ -260,7 +260,7 @@
             # IconUri = ''
 
             # ReleaseNotes of this module
-            ReleaseNotes = 'refactoring, license fixes'
+            ReleaseNotes = 'refactoring, license URL'
 
             # External dependent modules of this module
             # ExternalModuleDependencies = ''
